@@ -6,7 +6,7 @@ import os
 
 def logo():
     os.system("clear")
-    """
+    print("""
      _    _             _
     | |  | |           | |
     | |__| |_   _ _ __ | |_ ___ _ __
@@ -20,20 +20,18 @@ def logo():
     ____) | | | | (_) | (_| | (_| | | | |
    |_____/|_| |_|\___/ \__,_|\__,_|_| |_|
 
-                        By - Cyph70t
-
-    """
+    """)
 
 def usage():
     logo()
-    """
+    print("""
     -----------------
     :::::::TYPE::::::
     -----------------
           hunter-shodan full_addr  -->>   Get Info with IP Addr
           hunter-shodan half_addr    -->>   Get IP Addr info
 
-    """
+    """)
     
 def ip_search():
     Api_Key=str(input("Enter Your Own Shodan API Key: "))
@@ -63,7 +61,7 @@ def api_search():
 def main() :    
     arg = sys.argv[1:]
 
-    if len(agr)!=1:
+    if len(arg)!=1:
         usage()
     elif sys.argv[1] == "full_addr":
         logo()
