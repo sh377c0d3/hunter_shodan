@@ -23,6 +23,7 @@ def logo():
     """)
 
 def usage():
+    logo()
     print("""
     -----------------
     :::::::TYPE::::::
