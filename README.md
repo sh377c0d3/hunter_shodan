@@ -1,7 +1,7 @@
 # Instructions
 
 ---------------------------------------------------------
-Before You Run This Script: Run ->> `pip3 install shodan`
+Before You Run This Script: Run ->> ``pip3 install -r requirements.txt`
 ---------------------------------------------------------
 
 Input are not Hard coded 
