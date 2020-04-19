@@ -15,8 +15,3 @@ Run :
 1. `user@host~:$ chmod +x hunter-shodan`
 2. `user@host~:$ sudo mv hunter-shodan /usr/local/bin`
 3. `user@host~:$ hunter-shodan`
-
--------------------------------------------------
-Change it's Premission before you Run This Script
--------------------------------------------------
-
