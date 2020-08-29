@@ -27,8 +27,8 @@ def usage():
     -----------------
     :::::::TYPE::::::
     -----------------
-          hunter-shodan full_addr  -->>   Get Info with IP Addr
-          hunter-shodan half_addr    -->>   Get IP Addr info
+          hunter-shodan full_addr  -->>   Get Information with IP Address
+          hunter-shodan half_addr    -->>   Get Information of IP Address only
 
     """)
     
