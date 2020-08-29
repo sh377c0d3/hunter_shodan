@@ -1,3 +1,11 @@
+# Hunter Shodan
+
+This is an automated script for Command Line, that help you to hunt/search devices or IP from Shodan.
+
+This script requires only input as API from your Shodan account and device to search/hunt from Shodan.
+
+
+
 # Instructions
 
 ---------------------------------------------------------
