@@ -14,12 +14,14 @@ Before You Run This Script
 Run:
 
 `pip3 install -r requirements.txt`
+
+All setup is done and ready to RUN !!!
+
 ---------------------------------------------------------
 
 Input are not Hard coded 
-So You have to Input Your Shodan API Key Every Time
 
-To make it Single Time Edit This script...
+So You have to Input Your Shodan API Key Every Time
 
 Run :  
 1. `user@host~:$ chmod +x hunter-shodan`
